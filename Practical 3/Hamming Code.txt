@@ -1,0 +1,10 @@
+Hamming Code:
+
+If m = 1010, determine the sender site and verify the receiver site codeword using hamming method for even parity.
+
+Codewaord = Databits + parity
+
+Steps to solve the problem:
+
+1. Decide the no. of bits in the codeword
+2. Decide which parity bit checks which position and calculate the values for parity bits.
